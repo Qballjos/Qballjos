@@ -10,6 +10,6 @@ I'm just having fun developing and maintaining some personal stuff. For al that 
 
 ## Here is my Portainer Template Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Qballjoso&repo=portainer_templates&theme=algolia)](https://github.com/Qballjos/portainer_templates)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=qballjos&repo=portainer_templates&theme=algolia)](https://github.com/Qballjos/portainer_templates)
 
 This is a Template which was initially built for portainer by Linuxserver.io but after they stopped creating/supporting this I wanted to make a public version.
