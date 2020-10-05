@@ -1,16 +1,15 @@
-### Hi there 👋
+# Qballjos
 
-<!--
-**Qballjos/Qballjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Qballjos github stats](https://github-readme-stats.vercel.app/api?username=Qballjos&show_icons=true&theme=algolia)](https://github.com/Qballjos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub followers](https://img.shields.io/github/followers/Qballjos?color=%234518f5&logo=github&logoColor=%23403d3d&style=for-the-badge)](https://github.com/users/follow?target=Qballjos)
+[![Email](https://img.shields.io/badge/Email-qballjos%40gmail.com-234518f?color=%234518f5&logo=gmail&logoColor=%23403d3d&style=for-the-badge)](mailto:qballjos@gmail.com)
+---
+I'm just having fun developing and maintaining some personal stuff. For al that want to have a look at my templates and other stuff feel free>
+
+## Here is my Portainer Template Repo
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Qballjoso&repo=portainer_templates&theme=algolia)](https://github.com/Qballjos/portainer_templates)
+
+This is a Template which was initially built for portainer by Linuxserver.io but after they stopped creating/supporting this I wanted to make a public version.
