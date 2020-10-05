@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Qballjos?color=%234518f5&logo=github&logoColor=%23403d3d&style=for-the-badge)](https://github.com/users/follow?target=Qballjos)
 [![Email](https://img.shields.io/badge/Email-qballjos%40gmail.com-234518f?color=%234518f5&logo=gmail&logoColor=%23403d3d&style=for-the-badge)](mailto:qballjos@gmail.com)
 ---
-I'm just having fun developing and maintaining some personal stuff. For al that want to have a look at my templates and other stuff feel free>
+I'm just having fun developing and maintaining some personal stuff. For al that want to have a look at my templates and other stuff feel free
 
 ## Here is my Portainer Template Repo
 
