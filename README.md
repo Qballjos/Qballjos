@@ -13,7 +13,8 @@ I'm just having fun developing and maintaining some personal stuff. For al that 
 
 This is a Template which was initially built for portainer by Linuxserver.io but after they stopped creating/supporting this I wanted to make a public version.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=qballjos&repo=Voron-2.4-Otopus-pro-EBB36-U2C-CAN&theme=algolia](https://github.com/Qballjos/portainer_templates](https://github.com/Qballjos/Voron-2.4-Otopus-pro-EBB36-U2C-CAN)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=qballjos&repo=Voron-2.4-Otopus-pro-EBB36-U2C-CAN&theme=algolia)]([https://github.com/Qballjos/portainer_templates](https://github.com/Qballjos/portainer_templates](https://github.com/Qballjos/Voron-2.4-Otopus-pro-EBB36-U2C-CAN))  
+
 
 In this template you can find all items used for my Voron 2.4 R2 300mm.
 
