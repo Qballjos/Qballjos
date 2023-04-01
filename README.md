@@ -11,6 +11,9 @@ I'm just having fun developing and maintaining some personal stuff. For al that 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=qballjos&repo=portainer_templates&theme=algolia)](https://github.com/Qballjos/portainer_templates)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=qballjos&repo=Voron-2.4-Otopus-pro-EBB36-U2C-CAN&theme=algolia)](https://github.com/Qballjos/portainer_templates](https://github.com/Qballjos/Voron-2.4-Otopus-pro-EBB36-U2C-CAN)
+
+
 This is a Template which was initially built for portainer by Linuxserver.io but after they stopped creating/supporting this I wanted to make a public version.
 
 Personal website is [HERE](https://josvisserict.nl)
