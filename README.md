@@ -1,5 +1,5 @@
 <a href="https://static.josvisserict.nl/qballjos">
-  <img src="assets/qballjos-banner.png" alt="Qballjos — Jos Visser. Self-hosted. AI-assisted. Questionably stable." width="100%">
+  <img src="assets/qballjos-banner.png?v=it-system-engineer" alt="Qballjos — Jos Visser, IT System Engineer. Self-hosted. AI-assisted. Questionably stable." width="100%">
 </a>
 
 <p align="center">
@@ -10,9 +10,9 @@
 
 ## Hi, I'm Jos.
 
-I'm a developer and homelab tinkerer from Doetinchem, the Netherlands. **Qballjos** is my personal developer identity, alongside **Jos Visser ICT**.
+I'm an **IT System Engineer** from Doetinchem, the Netherlands. **Qballjos** is where I share the things I make as a hobby, alongside **Jos Visser ICT**.
 
-I build tools for self-hosting, media servers and home automation — usually to solve something in my own setup. I use AI-assisted coding to experiment, build and improve them, with a practical approach and a bit of humour.
+In my spare time, I make tools for self-hosting, media servers and home automation — usually to solve something in my own setup. Coding is a hobby: I use AI assistance to experiment, learn and improve my projects, with a practical approach and a bit of humour.
 
 **Self-hosting · Docker · Unraid · Homey · Open source**
 
