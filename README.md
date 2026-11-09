@@ -1,24 +1,4 @@
-<div align="center">
-
-<!-- Qballjos Social / Profile Banner Header -->
-<table border="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" style="border: none; padding: 20px;">
-      <img src="https://static.josvisserict.nl/assets/qballbot-thumb.png" width="140" alt="QballBot" />
-    </td>
-    <td align="left" style="border: none; padding: 20px;">
-      <h1>Qballjos<span>_</span></h1>
-      <p><b>DEVELOPER · SELF-HOSTING · OPEN SOURCE</b></p>
-      <p><i>Docker · Self-hosting · AI Coding · Open Source</i></p>
-    </td>
-  </tr>
-</table>
-
-> *Self-hosted. AI-assisted. Questionably stable.*
-
-[![Blog](https://img.shields.io/badge/Blog-josvisserict.nl-EA8B39?style=for-the-badge&logo=ghost&logoColor=white)](https://josvisserict.nl)
-
-</div>
+[![Qballjos Header Banner](https://static.josvisserict.nl/assets/qballjos-banner.png)](https://josvisserict.nl)
 
 ---
 
