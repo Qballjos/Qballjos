@@ -1,5 +1,5 @@
 <a href="https://static.josvisserict.nl/qballjos">
-  <img src="assets/qballjos-banner.png?v=it-system-engineer" alt="Qballjos — Jos Visser, IT System Engineer. Self-hosted. AI-assisted. Questionably stable." width="100%">
+  <img src="assets/qballjos-banner-it-system-engineer.png" alt="Qballjos — Jos Visser, IT System Engineer. Self-hosted. AI-assisted. Questionably stable." width="100%">
 </a>
 
 <p align="center">

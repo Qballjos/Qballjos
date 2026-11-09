@@ -2,7 +2,7 @@
 
 Jos Visser is an **IT System Engineer**. Qballjos represents the projects he makes as a hobby. The laptop mascot represents his hobby work.
 
-`qballjos-banner.png` was updated with the built-in image generation tool using the established banner as a reference. The same image is published in the [brand kit](https://static.josvisserict.nl/qballjos).
+`qballjos-banner-it-system-engineer.png` was updated with the built-in image generation tool using the established banner as a reference. The same image is published in the [brand kit](https://static.josvisserict.nl/qballjos).
 
 ## Latest edit prompt
 
