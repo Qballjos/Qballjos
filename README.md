@@ -1,32 +1,52 @@
-[![Qballjos Header Banner](https://static.josvisserict.nl/assets/qballjos-banner.png)](https://josvisserict.nl)
+<a href="https://static.josvisserict.nl/qballjos">
+  <img src="assets/qballjos-banner.png" alt="Qballjos — Jos Visser. Self-hosted. AI-assisted. Questionably stable." width="100%">
+</a>
 
----
+<p align="center">
+  <a href="https://josvisserict.nl">Jos Visser ICT</a> &nbsp;·&nbsp;
+  <a href="https://static.josvisserict.nl/qballjos">Qballjos Brand Kit</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Qballjos?tab=repositories">All repositories</a>
+</p>
 
-## 🚀 Main Project
+## Hi, I'm Jos.
 
-### 📦 [aio-media-server-manager](https://github.com/Qballjos/aio-media-server-manager)
-[![GitHub release](https://img.shields.io/github/v/release/Qballjos/aio-media-server-manager?color=EA8B39&label=release&style=flat-square)](https://github.com/Qballjos/aio-media-server-manager/releases)
-[![GitHub stars](https://img.shields.io/github/stars/Qballjos/aio-media-server-manager?color=EA8B39&style=flat-square)](https://github.com/Qballjos/aio-media-server-manager/stargazers)
+I'm a developer and homelab tinkerer from Doetinchem, the Netherlands. **Qballjos** is my personal developer identity, alongside **Jos Visser ICT**.
 
-> An all-in-one Dockerized media server deployment tool designed to rapidly set up, configure, and manage fully containerized media stacks.
+I build tools for self-hosting, media servers and home automation — usually to solve something in my own setup. I use AI-assisted coding to experiment, build and improve them, with a practical approach and a bit of humour.
 
----
+**Self-hosting · Docker · Unraid · Homey · Open source**
 
-## 🛠 Other Featured Projects
+## Main project
 
-- ### 📺 [tv-thuis](https://github.com/Qballjos/tv-thuis)
-  *Custom application tailored for streaming and managing local media setups directly on home TV screens.*
+### [AIO Media Server Manager](https://github.com/Qballjos/aio-media-server-manager)
 
-- ### 🐳 [portainer_templates](https://github.com/Qballjos/portainer_templates)
-  *Maintained public App Templates for Portainer, originally based on the LinuxServer.io template set.*
+A self-hosted media appliance that brings your media tools together behind one dashboard. Run it as **one Docker container or one native Linux service**; AIO installs and manages the applications you choose, rather than requiring a separate container for each app.
 
-- ### 🖨️ [Voron-2.4-Octopus-pro-SB2209-U2C-CAN](https://github.com/Qballjos/Voron-2.4-Otopus-pro-SB2209-U2C-CAN)
-  *Complete configuration files, Klipper macros, and wiring references for my Voron 2.4 R2 300mm build (Octopus Pro + BTT SB2209 CAN bus setup).*
+Setup, library tools, download clients and Jellyfin/Plex integrations, with backups and update controls in the same place.
 
----
+[Explore the project →](https://github.com/Qballjos/aio-media-server-manager) &nbsp;·&nbsp; [Documentation](https://qballjos.github.io/aio-media-server-manager/) &nbsp;·&nbsp; [Releases](https://github.com/Qballjos/aio-media-server-manager/releases)
 
-## 🧰 Tech Stack & Infrastructure
+## More things I build
 
-- **Homelab & Server:** Unraid, Docker, Linux (Ubuntu/Debian), UniFi Networking, Cloudflare Tunnels, WireGuard
-- **Media & Hardware:** Hardware Transcoding (Intel Arc), Jellyfin / Plex, 3D Printing (Klipper / Voron 2.4)
-- **Scripting & Automation:** Shell Scripting, Python, Docker Compose
+| Project | What it's for |
+| --- | --- |
+| **[TV Thuis](https://github.com/Qballjos/tv-thuis)** | My home TV launcher, based on Free My TV, with an AIO-connected media library, continue watching and requests. |
+| **[Unraid for Homey](https://github.com/Qballjos/homey-unraid)** | Monitor Unraid servers, Docker containers and VMs, and connect server operations to Homey Flows. |
+| **[Servarr Control Hub](https://github.com/Qballjos/Homey-Servarr)** | Homey dashboards and Flow automation for Sonarr, Radarr, Lidarr and Prowlarr. |
+| **[Docker Template Manager](https://github.com/Qballjos/docker-template-manager)** | Organise Unraid Docker templates, manage containers and back up your setup. |
+
+I also tinker with **[Portainer templates](https://github.com/Qballjos/portainer_templates)** and **[my Voron 2.4 / Klipper setup](https://github.com/Qballjos/Voron-2.4-Otopus-pro-SB2209-U2C-CAN)**.
+
+## On my workbench
+
+- **Homelab:** Unraid, Docker, Docker Compose, Linux, UniFi, Cloudflare Tunnels and WireGuard.
+- **Code & automation:** Python, JavaScript / TypeScript, shell scripting and Homey.
+- **Media & hardware:** Jellyfin, Plex, Intel Arc transcoding, Klipper and Voron 3D printing.
+
+## Find me
+
+[Website](https://josvisserict.nl) &nbsp;·&nbsp; [Brand assets](https://static.josvisserict.nl) &nbsp;·&nbsp; [Qballjos](https://static.josvisserict.nl/qballjos) &nbsp;·&nbsp; [Email](mailto:info@josvisserict.nl)
+
+For a bug or an idea about a project, please use that repository's issues or discussions.
+
+<sub>Self-hosted. AI-assisted. Questionably stable.</sub>
